@@ -18,4 +18,4 @@
 
 ## Инструменты
 
-Python, Pandas, Matplotlib, Seaborn, Pymystem3, NLTK
+`Python` `Pandas` `Matplotlib` `Seaborn` `Pymystem3` `NLTK` `предобработка данных` `исследовательский анализ данных`
