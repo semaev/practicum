@@ -16,4 +16,4 @@
 
 ## Инструменты
 
-Python, Pandas, PyMystem3, NLTK
+`Python` `Pandas` `PyMystem3` `NLTK` `предобработка данных` `анализ данных`
