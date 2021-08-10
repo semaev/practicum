@@ -15,4 +15,4 @@
 
 ## Инструменты
 
-Python, Pandas, Matplotlib, Seaborn, Scipy, статистический анализ данных, визуализация данных
+`Python` `Pandas` `Matplotlib` `Seaborn` `Scipy` `статистический анализ данных` `визуализация данных`
