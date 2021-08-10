@@ -13,4 +13,4 @@
 
 ## Инструменты
 
-Python, Pandas, Matplotlib, Seaborn, Scipy, статистический анализ данных
+`Python` `Pandas` `Matplotlib` `Seaborn` `Scipy` `статистический анализ данных`
